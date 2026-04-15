@@ -30,7 +30,7 @@ image-path="images/buddha-from-gandhara.jpg"
 
 One of the reasons that this particular depiction of Buddha is interesting is because of its hand placement. Unfortunately, the hands within this sculpture have been lost over time but over time and considerate study, the Met Museum’s site stated that if the right had been still intact it would be held in “abhayu murda” which would gesture approachability. 
 
-Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^randomthing]
+The placement of the right hand, considering it’s what we know most about, is an impactful and informative description of how Buddha was viewed during the time period in which it is dated.
 
 [^randomthing]:Put your source information here.
 
