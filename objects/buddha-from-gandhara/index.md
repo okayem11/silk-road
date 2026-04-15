@@ -24,11 +24,11 @@ This statue of the standing Buddha is a representation of Greco-Buddhist art bec
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://www.metmuseum.org/art/collection/search/38820.)"
+caption= [Source](https://www.metmuseum.org/art/collection/search/38820)"
 image-path="images/buddha-from-gandhara.jpg"
 %}
 
-This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
+One of the reasons that this particular depiction of Buddha is interesting is because of its hand placement. Unfortunately, the hands within this sculpture have been lost over time but over time and considerate study, the Met Museum’s site stated that if the right had been still intact it would be held in “abhayu murda” which would gesture approachability. 
 
 Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^randomthing]
 
