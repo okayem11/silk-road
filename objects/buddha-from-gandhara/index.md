@@ -6,7 +6,7 @@ header-image: images/buddha-from-gandhara.jpg
 thumbnail:  images/buddha-from-gandhara.jpg
 summary: One or two sentences about the coin but this one is not from Bukhara.
 geo: [39.877, 64.408]
-placename: Bukhara
+placename: Gandhara 
 tags:
   - object
 ---
@@ -32,7 +32,7 @@ One of the reasons that this particular depiction of Buddha is interesting is be
 
 The placement of the right hand, considering it’s what we know most about, is an impactful and informative description of how Buddha was viewed during the time period in which it is dated.
 
-[^randomthing]:Put your source information here.
+[^randomthing]:2021. Metmuseum.org. 2021. https://www.metmuseum.org/art/collection/search/38820
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
 
