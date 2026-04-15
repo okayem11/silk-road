@@ -11,7 +11,7 @@ tags:
   - object
 ---
 
-# Coin that is not from Bukhara
+# Coin that is not from Bukhara 
 
 This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
 
@@ -24,7 +24,7 @@ The text below is mostly filler to show how an essay flows, but we'll call out k
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally."
+caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)"
 image-path="images/buddha-from-gandhara.jpg"
 %}
 
