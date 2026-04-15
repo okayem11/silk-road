@@ -11,20 +11,20 @@ tags:
   - object
 ---
 
-# Statue of Buddha from the Ancient Region of Gandhara 
+# Coin that is not from Bukhara 
 
- This object chosen from the ancient region of Gandhara is an image of a statue that is a representation of the Standing Buddha. This statue is said to be dated from around the 3rd-4th century and was held in the Metropolitan Museum in New York.
+This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
 
-This statue of the standing Buddha is a representation of Greco-Buddhist art because of the drapery style as well as the calm facial expression depicted on the statue. This statue is also carved in grey schist, which was a common material found along the Silk Road during the 1st-3rd centuries in the ancient region of Gandhara. The material used within this statue can indicate that this artwork was created during the 3rd century. An interesting fact regarding the material utilized in this statue is that a grey schist can be a fine-grain material which can be helpful when wanting to carve an image or sculpture out of the material. 
+The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
 
 
-## The Standing Buddha
+## Your First Section Heading
 
 
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://www.metmuseum.org/art/collection/search/38820.)"
+caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)"
 image-path="images/buddha-from-gandhara.jpg"
 %}
 
