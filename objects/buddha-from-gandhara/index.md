@@ -49,15 +49,15 @@ This scultpure is an important commoditiy from the Silk Road as it representes t
 In consideration of the seated figure of the Maitreya at the bottom of the statue, that is another key factor within the representation of Buddha as it is a depiction of the future Buddha, and it holds significant importance within Buddhism. 
 
 
-## Pull Quotes Add Emphasis
+## the Met Museum States
 "Such Buddha images were found in great numbers in the public sacred preincts of Gandhara."
 
 {% include typography/aside.html class="right" text="
 He wears the robes of a monk, but his erna (dot on the forehead) and his extended earlobes denote his status as the Buddha." %}
 
-On the base of the statue is a seated figure of Maitreya, the Buddha of the future, who is being venerated by a man and woman who are likely donars of this image
+On the base of the statue is a seated figure of Maitreya, the Buddha of the future, who is being venerated by a man and woman who are likely donars of this image.
 
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
+
 
 ## Images Can Be Different Widths
 {% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)" image-path="images/han-coin-two-sides-blushwood.png" %}
