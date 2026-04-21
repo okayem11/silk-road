@@ -1,8 +1,8 @@
 ---
 author: Emily Schiller
-title: Buddha Statue from Ancient Region of Gandhara
+title: Gilded Bronze Statue of Buddhas from China
 layout: base
-header-image: images/buddha-from-gandhara.jpg
+header-image: 9.jpg
 thumbnail:  images/buddha-from-gandhara.jpg
 summary: 
 geo: [39.877, 64.408]
