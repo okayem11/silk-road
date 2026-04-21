@@ -3,7 +3,7 @@ author: Emily Schiller
 title: Gilded Bronze Statue of Buddhas from China
 layout: base
 header-image: 9.jpg
-thumbnail:  images/buddha-from-gandhara.jpg
+thumbnail:  images/Gilded Bronze Statue of Buddhas from China
 summary: 
 geo: [39.877, 64.408]
 placename: Bukhara
