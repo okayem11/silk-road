@@ -4,7 +4,7 @@ title: Buddha Statue from Ancient Region of Gandhara
 layout: base
 header-image: images/buddha-from-gandhara.jpg
 thumbnail:  images/buddha-from-gandhara.jpg
-summary: One or two sentences about the coin but this one is not from Bukhara.
+summary: This statue is dated to the 3rd-4th century from the ancient region of Gandhara and current day Pakistan 
 geo: [39.877, 64.408]
 placename: Bukhara
 tags:
