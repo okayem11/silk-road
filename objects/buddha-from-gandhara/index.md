@@ -4,7 +4,7 @@ title: Buddha Statue from Ancient Region of Gandhara
 layout: base
 header-image: images/buddha-from-gandhara.jpg
 thumbnail:  images/buddha-from-gandhara.jpg
-summary: One or two sentences about the coin but this one is not from Bukhara.
+summary: This statue is dated to the 3rd-4th century from the ancient region of Gandhara and current day Pakistan 
 geo: [39.877, 64.408]
 placename: Gandhara 
 tags:
@@ -34,9 +34,9 @@ The placement of the right hand, considering it’s what we know most about, is 
 
 [^randomthing]:2021. Metmuseum.org. 2021. https://www.metmuseum.org/art/collection/search/38820
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
+The site does not include the hypothesized placement of the left hand; we are left wondering. The ancient region of Gandhara is a prominent place in regard to the influence of Buddha and Buddhism.
 
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan.[^anotherrandomthing]
+The ancient region of Gandhara is a prominent place in regard to the influence of Buddha and Buddhism. Another prominent feature of this statue is the extended earlobes which is a distinct feature of the representation of Buddha across most regions along the Silk Road.[^anotherrandomthing]
 
 [^anotherrandomthing]:Put your next footnote source information here.
 
