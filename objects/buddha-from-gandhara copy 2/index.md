@@ -13,7 +13,7 @@ tags:
 
 # Coin that is not from Bukhara 
 
-This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
+This object is a gilded bronze statue of Śākyamuni and Prabhutāratna and is estimated to be dated from either the Northern Wei, c. 472 or Sui, c. 609, or could also be dated to c. 518, there is some debate as to when this statue was made.
 
 The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
 
