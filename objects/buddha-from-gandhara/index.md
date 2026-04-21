@@ -53,7 +53,7 @@ In consideration of the seated figure of the Maitreya at the bottom of the statu
 "Such Buddha images were found in great numbers in the public sacred preincts of Gandhara."
 
 {% include typography/aside.html class="right" text="
-This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
+He wears the robes of a monk, but his erna (dot on the forehead) and his extended earlobes denote his status as the Buddha." %}
 
 The pull quote you just saw is created with a simple `include` command in Markdown. It's one of many reusable components in Xanthan. You can put important quotes, key statistics, or memorable phrases in these boxes to create visual interest and emphasize crucial points.
 
