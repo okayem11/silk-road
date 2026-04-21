@@ -1,6 +1,6 @@
 ---
 author: Emily Schiller
-title: Buddha Statue from Ancient Region of Gandhara
+title: Gilded Bronze State of Symmetrical Buddhas from China
 layout: base
 header-image: images/buddha-from-gandhara.jpg
 thumbnail:  images/buddha-from-gandhara.jpg
