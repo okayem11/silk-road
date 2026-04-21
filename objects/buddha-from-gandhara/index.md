@@ -55,7 +55,7 @@ In consideration of the seated figure of the Maitreya at the bottom of the statu
 {% include typography/aside.html class="right" text="
 He wears the robes of a monk, but his erna (dot on the forehead) and his extended earlobes denote his status as the Buddha." %}
 
-The pull quote you just saw is created with a simple `include` command in Markdown. It's one of many reusable components in Xanthan. You can put important quotes, key statistics, or memorable phrases in these boxes to create visual interest and emphasize crucial points.
+On the base of the statue is a seated figure of Maitreya, the Buddha of the future, who is being venerated by a man and woman who are likely donars of this image
 
 Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
 
