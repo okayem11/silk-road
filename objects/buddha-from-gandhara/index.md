@@ -38,15 +38,15 @@ The site does not include the hypothesized placement of the left hand; we are le
 
 The ancient region of Gandhara is a prominent place in regard to the influence of Buddha and Buddhism. Another prominent feature of this statue is the extended earlobes which is a distinct feature of the representation of Buddha across most regions along the Silk Road.[^anotherrandomthing]
 
-[^anotherrandomthing]:Put your next footnote source information here.
+[^anotherrandomthing]:
 
 
-## Section Headings Create Visual Breaks
-Each section heading (marked with `##` in Markdown) creates a clear visual break in your essay. This helps readers navigate long-form content and gives you natural places to shift topics or introduce new ideas.
+## Current Region of Pakistan
+As well as the “seated figure of Maitreya, the Buddha of the future.”
 
-**Why this matters:** Breaking essays into clear sections makes writing more manageable. Write one section at a time, preview it, then move to the next. No need to tackle the entire essay at once.
+This scultpure is an important commoditiy from the Silk Road as it representes the importance of sharing ideas and religious beliefs across different regions. 
 
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis.
+In consideration of the seated figure of the Maitreya at the bottom of the statue, that is another key factor within the representation of Buddha as it is a depiction of the future Buddha, and it holds significant importance within Buddhism. 
 
 
 ## Pull Quotes Add Emphasis
