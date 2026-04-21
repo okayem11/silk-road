@@ -50,7 +50,7 @@ In consideration of the seated figure of the Maitreya at the bottom of the statu
 
 
 ## Pull Quotes Add Emphasis
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis.
+"Such Buddha images were found in great numbers in the public sacred preincts of Gandhara."
 
 {% include typography/aside.html class="right" text="
 This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
