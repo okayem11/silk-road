@@ -24,11 +24,11 @@ This statue of the standing Buddha is a representation of Greco-Buddhist art bec
 {% include images/figure.html
 class="right"
 width="48%"
-caption= [Source](https://www.metmuseum.org/art/collection/search/38820)"
+caption= "[Source](https://www.metmuseum.org/art/collection/search/38820)"
 image-path="images/buddha-from-gandhara.jpg"
 %}
 
-One of the reasons that this particular depiction of Buddha is interesting is because of its hand placement. Unfortunately, the hands within this sculpture have been lost over time but over time and considerate study, the Met Museum’s site stated that if the right had been still intact it would be held in “abhayu murda” which would gesture approachability. 
+One of the reasons that this particular depiction of Buddha is interesting is because of its hand placement. Unfortunately, the hands within this sculpture have been lost over time but over time and considerate study, the Met Museum’s site stated that if the right had been still intact it would be held in “abhayu murda” which would gesture approachability.  
 
 The placement of the right hand, considering it’s what we know most about, is an impactful and informative description of how Buddha was viewed during the time period in which it is dated.
 
