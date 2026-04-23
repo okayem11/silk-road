@@ -59,8 +59,8 @@ On the base of the statue is a seated figure of Maitreya, the Buddha of the futu
 
 
 
-## Images Can Be Different Widths
-{%  [Source](https://www.metmuseum.org/art/collection/search/38820.File:)" image-path="images/han-coin-two-sides-blushwood.png" %}
+## 
+{%  [Source]"(https://www.metmuseum.org/art/collection/search/38820.File:)" %}
 
 The image to the right is **wider than the previous one** (60% instead of 48%). You control this with the `width` parameter in the image code. Want a small image? Use 30%. Want something that dominates? Try 70%.
 
