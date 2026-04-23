@@ -4,21 +4,21 @@ title: Buddha Limestone Dome Slab from India
 layout: base
 header-image: images/buddha-from-india-2.jpg
 thumbnail:  images/buddha-india.jpg
-summary: One or two sentences about the coin but this one is not from Bukhara.
-geo: [39.877, 64.408]
-placename: Bukhara
+summary: This liestone dome slab took years to be completed as it was a product of many donars. 
+geo: [56'14 N, 46'46.3764 E]
+placename: Amaravati, India
 tags:
   - object
 ---
 
-# Coin that is not from Bukhara 
+# Limestone Dome Slab 
 
-This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
+  This object is a depiction of Buddha on a limestone dome-slab from the Amaravati in India. For most of the world, India is considered the birthplace of Buddhism and for good reason.
 
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
+This limestone slab can be dated back to AD 50-100, many of the object throughout this discussion of representations of Buddhism along the Silk Road have not dated that far back
 
 
-## Your First Section Heading
+## This Dome SLab can be dated to 50-100 AD
 
 
 {% include images/figure.html
