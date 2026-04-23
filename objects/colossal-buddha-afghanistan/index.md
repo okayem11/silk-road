@@ -30,15 +30,15 @@ image-path="images/buddha-from-gandhara.jpg"
 
 These massive monuments are originally dated back to the 6th century and were carved directly into sandstone cliffs.
 
-Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^randomthing]
+[^randomthing] These monuments remains reside in current day Afghanistan which was known as Bactria or Bakhtria during the time of the Silk Road.
 
-[^randomthing]:Put your source information here.
+[^randomthing]:https://whoseculture.hsites.harvard.edu/bamiyan-buddhas.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
+These monuments originally stood at the heights of 115 and 174 feet tall, which can be considered as an extremely impressive feat during the time of its construction as during the 6th century, human civilization did not have the technology that we do today in order to create the massive structures such as these.  
 
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan.[^anotherrandomthing]
+The colossal Buddhas of Bactria or Bakhtria were incredibly impactful in regard to the importance of Buddhism along the Silk Road, as these monuments were heavily visited as well as respected by many people who crossed the Silk Road.[^anotherrandomthing]
 
-[^anotherrandomthing]:Put your next footnote source information here.
+[^anotherrandomthing]:https://doi.org/10.22679/avs.2019.4.2.001.
 
 
 ## Section Headings Create Visual Breaks
