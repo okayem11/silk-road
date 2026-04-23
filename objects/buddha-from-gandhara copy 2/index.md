@@ -6,7 +6,7 @@ header-image: images/buddha-from-gandhara.jpg
 thumbnail:  images/buddha-from-gandhara.jpg
 summary: This statue can be dated back to c. 472 or Sui, c. 609, or could also be dated to c. 518
 geo: [39.877, 64.408]
-placename: Bukhara
+placename: China
 tags:
   - object
 ---
