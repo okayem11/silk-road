@@ -1,9 +1,9 @@
 ---
 author: Emily Schiller
-title: Buddha Statue from Ancient Region of Gandhara
+title: Buddha Limestone Dome Slab from India
 layout: base
-header-image: images/buddha-from-gandhara.jpg
-thumbnail:  images/buddha-from-gandhara.jpg
+header-image: images/buddha-from-india-2.jpg
+thumbnail:  images/buddha-india.jpg
 summary: One or two sentences about the coin but this one is not from Bukhara.
 geo: [39.877, 64.408]
 placename: Bukhara
