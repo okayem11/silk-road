@@ -1,10 +1,10 @@
 ---
 author: student name
-title: "Monasteries on the Silk Road Trade Network"
+title: "Representations of Buddha Across Different Regions"
 layout: base
-header-image: images/ota-gate-khiva2.jpg
-thumbnail: images/ota-gate-demo-green.png
-summary: Monasteries were key to the functioning of the Silk Road Trade Network.
+header-image: images/buddha-from-gandhara.jpg
+thumbnail: images/buddha-from-gandhara.jpg
+summary: MBuddhism has been spread across many different regions along the Silk Road.
 ---
 
 # Monasteries: The More Sophisticated Type of Webpage
