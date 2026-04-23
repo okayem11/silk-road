@@ -30,7 +30,7 @@ image-path="images/buddha-from-gandhara.jpg"
 
 This limestone slab originally stood over three meters or nine feet tall, which was a massive feat for its time. 
 
-Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^randomthing]
+This image of the limestone dome slab from Amaravati comes from the British Museum.[^randomthing]
 
 [^randomthing]:https://www.britishmuseum.org/blog/introduction-ancient-india-living-traditions.
 
