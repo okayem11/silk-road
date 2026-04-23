@@ -4,7 +4,7 @@ title: "Representations of Buddha Across Different Regions"
 layout: base
 header-image: images/buddha-from-gandhara.jpg
 thumbnail: images/buddha-from-gandhara.jpg
-summary: MBuddhism has been spread across many different regions along the Silk Road.
+summary: Buddhism has been spread across many different regions along the Silk Road.
 ---
 
 # Monasteries: The More Sophisticated Type of Webpage
