@@ -39,7 +39,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh v
 Here's what makes Sapling different: keep scrolling and watch what happens next. You're about to see text appear **over** a background image, creating an immersive reading experience.
 
 {% include scrollybox/bg.html
-  image-path="images/ota-gate-khiva2.jpg"
+  image-path="images/buddha-from-india-2.jpg"
   above-box-space = "100vh"
   below-box-space = "80vh"
   box-content=' A sculpture in Khiva offers a romaticized view of the Silk Road trade network.'
@@ -70,9 +70,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id
 Below you'll see an **image carousel**—multiple images you can click through. This is perfect when you want readers to compare several images without cluttering the page.
 
 {% assign images =
-"images/ota-gate-demo-brown.png,
-images/ota-gate-demo-gray.png,
-images/ota-gate-demo-green.png" | split: ','
+"images/9.jpg,
+images/buddha-india.jpg
+images/standing_buddha_bamiyan.jpg,
+images/buddha-from-gandhara.jpg" | split: ','
 %}
 
 {% include images/carousel.html
