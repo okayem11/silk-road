@@ -55,18 +55,18 @@ Its construction, embellishment and, over time, extension and refurbishment, was
 {% include typography/aside.html class="right" text="
 Inscriptions on the shrine reveal that many of the donars were women, including this now broken dome slab that once stood more than three meters high" %}
 
-The pull quote you just saw is created with a simple `include` command in Markdown. It's one of many reusable components in Xanthan. You can put important quotes, key statistics, or memorable phrases in these boxes to create visual interest and emphasize crucial points.
+A magnificent Buddhist monument in southeast India that originally measured almost 50 meters in diameter. 
 
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
+The limestone dome-slab from Amaravati in India that is a depiction of Buddha is a unique style of artwork that has Buddha in a standing position along with what appears to be three women and one man standing next to the Buddha. 
 
 ## Images Can Be Different Widths
 {% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)" image-path="images/han-coin-two-sides-blushwood.png" %}
 
-The image to the right is **wider than the previous one** (60% instead of 48%). You control this with the `width` parameter in the image code. Want a small image? Use 30%. Want something that dominates? Try 70%.
+What is also very interesting about this limestone slab is that the Buddha is in relatively minimal clothing which may be a representation of the time that it was created.
 
-Images can also be left-aligned (use `class="left"`) or centered full-width (we'll show that in more advanced essays). For Seedling level, right-aligned images at 48-60% width work well for most purposes.
+As seen in many other depictions of Buddha within art, the Buddha is usually heavily clothed in a shall of clothing that covers the majority of the body. 
 
-Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque.
+Whereas this image of Buddha has minimal clothing. Another interesting piece of this representation of Buddha from India is the hand placement, this hand placement tends to hold the meaning of unification of opposites, devotion, and respect. This hand placement tends to differ from the other objects chosen within this subject. This chosen object from India holds deep significance to the rise of Buddhism in India and the spread of Buddhism along the Silk Road.
 
 ---
 
