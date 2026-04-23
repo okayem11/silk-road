@@ -67,9 +67,9 @@ image-path="images/buddha-from-gandhara.jpg"
 %}
 
 
-The image to the right is **wider than the previous one** (60% instead of 48%). You control this with the `width` parameter in the image code. Want a small image? Use 30%. Want something that dominates? Try 70%.
+It’s an interesting part of the representation of Buddha as it touches on the idea of thoughtfulness as well as a consideration of the future.
 
-Images can also be left-aligned (use `class="left"`) or centered full-width (we'll show that in more advanced essays). For Seedling level, right-aligned images at 48-60% width work well for most purposes.
+The fact that this statue is considered a Greco-Buddhist art style insinuates a connection with different regions along the Silk Road that date back to the first century, that is an important idea considering that the Silk Road was crucial in regard to spreading ideas, commodities, and religious ideas.
 
 It’s an interesting part of the representation of Buddha as it touches on the idea of thoughtfulness as well as a consideration of the future. 
 
