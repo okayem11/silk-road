@@ -53,7 +53,7 @@ This object that is from the Amaravati in India, by itself stands over nine feet
 Its construction, embellishment and, over time, extension and refurbishment, was an enormous project funded by many generous donors between about the third century BC and third century AD.
 
 {% include typography/aside.html class="right" text="
-This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
+Inscriptions on the shrine reveal that many of the donars were women, including this now broken dome slab that once stood more than three meters high" %}
 
 The pull quote you just saw is created with a simple `include` command in Markdown. It's one of many reusable components in Xanthan. You can put important quotes, key statistics, or memorable phrases in these boxes to create visual interest and emphasize crucial points.
 
