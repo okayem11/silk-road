@@ -15,7 +15,7 @@ tags:
 
   This object is a depiction of Buddha on a limestone dome-slab from the Amaravati in India. For most of the world, India is considered the birthplace of Buddhism and for good reason.
 
-This limestone slab can be dated back to AD 50-100, many of the object throughout this discussion of representations of Buddhism along the Silk Road have not dated that far back
+This limestone slab can be dated back to AD 50-100, many of the object throughout this discussion of representations of Buddhism along the Silk Road have not dated that far back.
 
 
 ## This Dome SLab can be dated to 50-100 AD
@@ -28,11 +28,11 @@ caption="This is a right-aligned image that takes up roughly half the page width
 image-path="images/buddha-from-gandhara.jpg"
 %}
 
-This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
+This limestone slab originally stood over three meters or nine feet tall, which was a massive feat for its time. 
 
 Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^randomthing]
 
-[^randomthing]:Put your source information here.
+[^randomthing]:https://www.britishmuseum.org/blog/introduction-ancient-india-living-traditions.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
 
