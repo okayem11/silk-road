@@ -5,20 +5,20 @@ layout: base
 header-image: images/image.png
 thumbnail:  images/image.png
 summary: These colossal Buddhas are very cultural impactful
-geo: [39.877, 64.408]
+geo: [29 N, 61 E]
 placename: Afghanistan
 tags:
   - object
 ---
 
-# Coin that is not from Bukhara 
+# Colossal Buddhas in Bamiyan
 
-This object is a gilded bronze statue of Śākyamuni and Prabhutāratna and is estimated to be dated from either the Northern Wei, c. 472 or Sui, c. 609, or could also be dated to c. 518, there is some debate as to when this statue was made.
+This object is two images of the colossal Buddhas which were made in current eday Afghanistan also considered the Bamiyan Buddhas. These depictions of Buddha were so incredibly, not only because of their size but also because of the impact they had on Buddhist culture.
 
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
+Unfortunately, in 2001 these colossal statues were attacked by the Taliban and left a serious impact on Afghanistan.
 
 
-## Your First Section Heading
+## The Unfortunate Destruction of the Bamiyan Buddhas
 
 
 {% include images/figure.html
@@ -28,7 +28,7 @@ caption="This is a right-aligned image that takes up roughly half the page width
 image-path="images/buddha-from-gandhara.jpg"
 %}
 
-This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
+These massive monuments are originally dated back to the 6th century and were carved directly into sandstone cliffs.
 
 Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^randomthing]
 
