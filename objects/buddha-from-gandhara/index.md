@@ -5,7 +5,7 @@ layout: base
 header-image: images/buddha-from-gandhara.jpg
 thumbnail:  images/buddha-from-gandhara.jpg
 summary: This statue is dated to the 3rd-4th century from the ancient region of Gandhara and current day Pakistan 
-geo: [39.877, 64.408]
+geo: [24, 61]
 placename: Gandhara 
 tags:
   - object
