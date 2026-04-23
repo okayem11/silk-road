@@ -59,9 +59,12 @@ On the base of the statue is a seated figure of Maitreya, the Buddha of the futu
 
 
 
-## 
-{%  [Source](https://www.metmuseum.org/art/collection/search/38820.File:) %}
->>>>>>> c33821249313915d345847351438e38dc5e64948
+{% include images/figure.html
+class="right"
+width="48%"
+caption= "[Source](https://www.metmuseum.org/art/collection/search/38820)"
+image-path="images/buddha-from-gandhara.jpg"
+%}
 
 
 The image to the right is **wider than the previous one** (60% instead of 48%). You control this with the `width` parameter in the image code. Want a small image? Use 30%. Want something that dominates? Try 70%.
