@@ -21,11 +21,11 @@ This limestone slab can be dated back to AD 50-100, many of the object throughou
 ## This Dome SLab can be dated to 50-100 AD
 
 
-{% include images/figure.html
+{% include images/buddha-india.jpg
 class="right"
 width="48%"
 caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)"
-image-path="images/buddha-from-gandhara.jpg"
+image-path="images/buddha-india.jpg"
 %}
 
 This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
