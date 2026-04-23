@@ -71,7 +71,7 @@ Below you'll see an **image carousel**—multiple images you can click through. 
 
 {% assign images =
 "images/9.jpg,
-images/buddha-india.jpg
+images/buddha-india.jpg,
 images/standing_buddha_bamiyan.jpg,
 images/buddha-from-gandhara.jpg" | split: ','
 %}
