@@ -49,28 +49,25 @@ The two Buddhas represented in the monuments were the Śākyamuni, the historica
  These colossal monuments are a vital part of the representation of Buddha along the Silk Road as they stood out for many different reasons as well as connect to the historical and future significance of the religious ideas of Buddhism. 
 
 
-## Pull Quotes Add Emphasis
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis.
+## Harvard States
+These statues best exemplified the Gandharan Buddhist art school, as well as greater culture landscape of Buddhism and its influence during the 1st and 13th centuries. 
 
 {% include typography/aside.html class="right" text="
-This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
+Although Islam became the dominant religion in the region, these Buddhist monuments were still integral to Afghan history and were a sorce of national pride, and their destruction has been seen as a great loss to many Afghan people. " %}
 
-The pull quote you just saw is created with a simple `include` command in Markdown. It's one of many reusable components in Xanthan. You can put important quotes, key statistics, or memorable phrases in these boxes to create visual interest and emphasize crucial points.
+The Colossal Buddhas of Bakhtria were such an important part of the history regarding the Silk Road as well as the cultural importance of current day Afghanistan that it became a target for the Taliban. 
 
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
+When discussing these monuments, it is extremely important to discuss the fact that they were destroyed and how that heavily impacted not only the Afghanistan communities but the rest of the world.
 
 ## Images Can Be Different Widths
 {% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)" image-path="images/han-coin-two-sides-blushwood.png" %}
 
-The image to the right is **wider than the previous one** (60% instead of 48%). You control this with the `width` parameter in the image code. Want a small image? Use 30%. Want something that dominates? Try 70%.
+The attack on the monuments was a message from a terrorist group and it was an abuse of their power, a disgrace to the religion of Buddhism and an extremely unfortunate event that took place.
 
-Images can also be left-aligned (use `class="left"`) or centered full-width (we'll show that in more advanced essays). For Seedling level, right-aligned images at 48-60% width work well for most purposes.
-
-Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque.
+Most consider it to be a complete tragedy. The monuments will forever be grieved by those all around the world, the masterpieces that once were an important part of Buddhist culture and artwork. 
 
 ---
 
 ## Bibliography
 
-- Lastname, Firstname. “Title of the Article.” *Title of the Journal* 9, no. 9 (1999): 999–999.
-- Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
+- Bareau, Andre. "The Superhuman Personality of Buddha and its Symbolism in the Mahaparinvanasutra of the Dharmaguptaka. "In Myths annd Symbols: Studies in Honor of Mircea Eliade, edited by Joseph M. Kitagawa and Charles H. Long. Chicago: University of Chicago Press, 1969
