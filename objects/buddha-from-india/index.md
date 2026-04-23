@@ -72,5 +72,4 @@ Whereas this image of Buddha has minimal clothing. Another interesting piece of 
 
 ## Bibliography
 
-- Lastname, Firstname. “Title of the Article.” *Title of the Journal* 9, no. 9 (1999): 999–999.
-- Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
+- Cunnungham, Alexander, 'Appendix E (in Jame's Ferguson's Tree and Serpant Worship - inscriptions taken from the Scuplted Refiefs at Amaravati)' London, 1873, XCIX, xix
