@@ -1,12 +1,12 @@
 ---
 author: Emily Schiller
-title: Gilded Bronze State of Symmetrical Buddhas from China
+title: Colossal Buddha from Afghanistan
 layout: base
-header-image: images/buddha-from-gandhara.jpg
-thumbnail:  images/buddha-from-gandhara.jpg
-summary: This statue can be dated back to c. 472 or Sui, c. 609, or could also be dated to c. 518
+header-image: images/image.png
+thumbnail:  images/image.png
+summary: These colossal Buddhas are very cultural impactful
 geo: [39.877, 64.408]
-placename: China
+placename: Afghanistan
 tags:
   - object
 ---
