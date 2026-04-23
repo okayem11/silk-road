@@ -41,12 +41,12 @@ The colossal Buddhas of Bactria or Bakhtria were incredibly impactful in regard 
 [^anotherrandomthing]:https://doi.org/10.22679/avs.2019.4.2.001.
 
 
-## Section Headings Create Visual Breaks
-Each section heading (marked with `##` in Markdown) creates a clear visual break in your essay. This helps readers navigate long-form content and gives you natural places to shift topics or introduce new ideas.
+## Colossal Buddhas
+The two Buddhas represented in the monuments were the Śākyamuni, the historical Buddha and the Maitreya, the future Buddha which both of these figures are prominent throughout many different depictions of Buddhist art across many different areas along the Silk Road. 
 
-**Why this matters:** Breaking essays into clear sections makes writing more manageable. Write one section at a time, preview it, then move to the next. No need to tackle the entire essay at once.
+**Why this matters:** The fact that these two figures were prominent within Bakhtria during the sixth century alludes to the known fact that ideas of religion were shared across the Silk Road. 
 
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis.
+ These colossal monuments are a vital part of the representation of Buddha along the Silk Road as they stood out for many different reasons as well as connect to the historical and future significance of the religious ideas of Buddhism. 
 
 
 ## Pull Quotes Add Emphasis
