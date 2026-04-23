@@ -66,7 +66,7 @@ The image to the right is **wider than the previous one** (60% instead of 48%). 
 
 Images can also be left-aligned (use `class="left"`) or centered full-width (we'll show that in more advanced essays). For Seedling level, right-aligned images at 48-60% width work well for most purposes.
 
-Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque.
+It’s an interesting part of the representation of Buddha as it touches on the idea of thoughtfulness as well as a consideration of the future. 
 
 ---
 
