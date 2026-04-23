@@ -49,7 +49,7 @@ This scultpure is an important commoditiy from the Silk Road as it representes t
 In consideration of the seated figure of the Maitreya at the bottom of the statue, that is another key factor within the representation of Buddha as it is a depiction of the future Buddha, and it holds significant importance within Buddhism. 
 
 
-## the Met Museum States
+## The Met Museum States
 "Such Buddha images were found in great numbers in the public sacred preincts of Gandhara."
 
 {% include typography/aside.html class="right" text="
@@ -60,7 +60,7 @@ On the base of the statue is a seated figure of Maitreya, the Buddha of the futu
 
 
 ## Images Can Be Different Widths
-{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)" image-path="images/han-coin-two-sides-blushwood.png" %}
+{%  [Source](https://www.metmuseum.org/art/collection/search/38820.File:)" image-path="images/han-coin-two-sides-blushwood.png" %}
 
 The image to the right is **wider than the previous one** (60% instead of 48%). You control this with the `width` parameter in the image code. Want a small image? Use 30%. Want something that dominates? Try 70%.
 
