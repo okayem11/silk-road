@@ -34,11 +34,11 @@ This image of the limestone dome slab from Amaravati comes from the British Muse
 
 [^randomthing]:https://www.britishmuseum.org/blog/introduction-ancient-india-living-traditions.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
+When considering the time that this statue was carved, people during this time along the Silk Road did not have the technology that we have today but they were able to complete an extremely tall masterpiece as some would say that had impacted many people along the Silk Road.
 
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan.[^anotherrandomthing]
+India was a very important region along the Silk Road as it helped initiate the idea of Buddhism and the importance within the messages that Buddha stood for.  [^anotherrandomthing]
 
-[^anotherrandomthing]:Put your next footnote source information here.
+[^anotherrandomthing]:https://www.britishmuseum.org/blog/introduction-ancient-india-living-traditions.
 
 
 ## Section Headings Create Visual Breaks
