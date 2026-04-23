@@ -41,36 +41,33 @@ This object which represents Śākyamuni and Prabhutāratna is particularly impo
 [^anotherrandomthing]:https://laulima.hawaii.edu/access/content/user/bsg/layout/art101slides/Chinese/Body/132.html.
 
 
-## Section Headings Create Visual Breaks
-Each section heading (marked with `##` in Markdown) creates a clear visual break in your essay. This helps readers navigate long-form content and gives you natural places to shift topics or introduce new ideas.
+## Emaciated Buddhas
+Specifically, within this artwork it is unique that these two figures are seated next to each other, symmetrically which can allude to the meaning of unification of the historical Buddha with the ancient past. 
 
-**Why this matters:** Breaking essays into clear sections makes writing more manageable. Write one section at a time, preview it, then move to the next. No need to tackle the entire essay at once.
+**Why this matters:** Another key factor within this sculpture is the depiction of the figures, as they were considered to be Chinese ideas of Buddha and they are emaciated, whereas most depictions of Buddha seen on a wider scale tend to be healthier rather than emaciated.
 
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis.
+In consideration of how other Buddhist imagery is represented, it could be considered that the imagery of Śākyamuni and Prabhutāratna within this artwork could be relating to the idea of death, or the circle of life.
 
 
-## Pull Quotes Add Emphasis
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis.
+## Sociétédes Amis Du Musée Cernuschi States
+A guilded bronze from the Musée Guimet (Paris) shows them seated symmetrically, as if in great discussion. 
 
 {% include typography/aside.html class="right" text="
-This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
+The drapes are angular and stiff, the sillhouetts very slender and faces emaciated " %}
 
-The pull quote you just saw is created with a simple `include` command in Markdown. It's one of many reusable components in Xanthan. You can put important quotes, key statistics, or memorable phrases in these boxes to create visual interest and emphasize crucial points.
+ The idea of the circle of life is an important one when discussing Buddhism.  
 
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
+This object from Northern China which depicts Śākyamuni and Prabhutāratna, is a very interesting style from the material used, the placement of the figures right hand which seems to represent “abhayu murda” which would gesture approachability, the emaciated depiction of Śākyamuni and Prabhutāratna,  as well as the muted images on the bottom of the seated statue.
 
 ## Images Can Be Different Widths
 {% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)" image-path="images/han-coin-two-sides-blushwood.png" %}
 
-The image to the right is **wider than the previous one** (60% instead of 48%). You control this with the `width` parameter in the image code. Want a small image? Use 30%. Want something that dominates? Try 70%.
+It’s unclear what exactly the muted images are on the bottom of the bench that the two figures are seated on, it appears to be a mirrored image of a certain animal and possibly a seated figure of Maitreya, which tends to be prominent within Buddhist imagery.
 
-Images can also be left-aligned (use `class="left"`) or centered full-width (we'll show that in more advanced essays). For Seedling level, right-aligned images at 48-60% width work well for most purposes.
-
-Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque.
+his art styles and statue is a very interesting find from Northern China. 
 
 ---
 
 ## Bibliography
 
 - Lastname, Firstname. “Title of the Article.” *Title of the Journal* 9, no. 9 (1999): 999–999.
-- Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
