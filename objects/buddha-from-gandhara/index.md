@@ -77,5 +77,4 @@ It’s an interesting part of the representation of Buddha as it touches on the 
 
 ## Bibliography
 
-- Lastname, Firstname. “Title of the Article.” *Title of the Journal* 9, no. 9 (1999): 999–999.
-- Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
+- Behrendt, Kurt. The Art of Gandhara in The Metropolitan Museum of Art.New York: The Metropolitan Musuem of Art, 2007 pp. 51, 59, cat. no. 40, fig. 23
