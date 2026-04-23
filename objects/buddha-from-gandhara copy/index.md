@@ -1,17 +1,17 @@
 ---
 author: Emily Schiller
-title: Gilded Bronze Statue of Buddhas from China
+title: Gilded Bronze Statue of Buddhas from Northern China
 layout: base
-header-image: 9.jpg
-thumbnail:  images/Gilded Bronze Statue of Buddhas from China
-summary: 
+header-image: images/9.jpg
+thumbnail:  images/9.jpg
+summary: This object is a gilded bronze statue of Śākyamuni and Prabhutāratna.
 geo: [39.877, 64.408]
 placename: China
 tags:
   - object
 ---
 
-#  
+#  Gilded Bronze Statue of Buddhas from Northern China
 
  This object is a gilded bronze statue of Śākyamuni and Prabhutāratna and is estimated to be dated from either the Northern Wei, c. 472 or Sui, c. 609, or could also be dated to c. 518, there is some debate as to when this statue was made. 
 
