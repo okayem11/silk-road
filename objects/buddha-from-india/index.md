@@ -41,16 +41,16 @@ India was a very important region along the Silk Road as it helped initiate the 
 [^anotherrandomthing]:https://www.britishmuseum.org/blog/introduction-ancient-india-living-traditions.
 
 
-## Section Headings Create Visual Breaks
-Each section heading (marked with `##` in Markdown) creates a clear visual break in your essay. This helps readers navigate long-form content and gives you natural places to shift topics or introduce new ideas.
+## The Scale of the Dome Slab is Very Impressive
+This object that is from the Amaravati in India, by itself stands over nine feet tall however it was originally connected to an entire mural that stood over fifty feet tall. This limestone dome-slab was constructed over a very long period of time, and it was made possible by many wealthy donors who wanted to contribute to something much bigger than them. 
 
-**Why this matters:** Breaking essays into clear sections makes writing more manageable. Write one section at a time, preview it, then move to the next. No need to tackle the entire essay at once.
+**Why this matters:** This limestone dome-slab was constructed between the second century BC and the third century BC. 
 
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis.
+ India will most likely always be considered the birthplace of Buddhism as well as be considered a vital and significant place of establishing the importance of Buddhism within Indian culture. 
 
 
-## Pull Quotes Add Emphasis
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis.
+## The Bristish Museum States
+Its construction, embellishment and, over time, extension and refurbishment, was an enormous project funded by many generous donors between about the third century BC and third century AD.
 
 {% include typography/aside.html class="right" text="
 This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
