@@ -5,7 +5,7 @@ layout: base
 header-image: images/9.jpg
 thumbnail:  images/9.jpg
 summary: This object is a gilded bronze statue of Śākyamuni and Prabhutāratna.
-geo: [39.877, 64.408]
+geo: [34 N, 73 E]
 placename: China
 tags:
   - object
@@ -15,10 +15,10 @@ tags:
 
  This object is a gilded bronze statue of Śākyamuni and Prabhutāratna and is estimated to be dated from either the Northern Wei, c. 472 or Sui, c. 609, or could also be dated to c. 518, there is some debate as to when this statue was made. 
 
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
+ This gilded bronze statue is particularly interesting was the representations of  Śākyamuni and Prabhutāratna were significant Buddhist artistic imagery throughout the earlier centuries of the Silk Road in China.
 
 
-## Your First Section Heading
+## Symmetrical Buddhas found in Northern China
 
 
 {% include images/figure.html
@@ -28,17 +28,17 @@ caption="This is a right-aligned image that takes up roughly half the page width
 image-path="images/buddha-from-gandhara.jpg"
 %}
 
-This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
+These two figures depicted in the statue are seated on the Lotus Sutra, which is also an important factor of this statue. The Lotus Sutra, in accordance with Chinese Buddhism proclaims, “universal Buddhahood,” indicating that all individuals, regardless of capacity, can attain enlightenment.
 
-Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^randomthing]
+The choice of the material of gilded bronze is an interesting feature within this statue; it references the importance of trading ideas and material along the Silk Road. [^randomthing]
 
-[^randomthing]:Put your source information here.
+[^randomthing]:https://amis-musee-cernuschi.org/en/la-sculpture-chinoise-du-2eme-au-6eme-siecle/.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
+The use of gilded bronze blended Chinese techniques with nomadic and foreign artistic styles which spanned from the Han, Tang and Xixia dynasties.  
 
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan.[^anotherrandomthing]
+This object which represents Śākyamuni and Prabhutāratna is particularly important within Chinese historical relevance to Buddhism as each of these figures held significant meaning.[^anotherrandomthing]
 
-[^anotherrandomthing]:Put your next footnote source information here.
+[^anotherrandomthing]:https://laulima.hawaii.edu/access/content/user/bsg/layout/art101slides/Chinese/Body/132.html.
 
 
 ## Section Headings Create Visual Breaks
