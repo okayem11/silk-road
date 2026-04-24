@@ -57,16 +57,14 @@ The chosen object from the ancient region of Bakhtria, the colossal Buddhas are 
  The importance that the colossal Buddha held will forever remain in not only the community of present-day Afghanistan but the rest of the world. The amazing construction of the masterpiece that once was, will continue to leave the world in awe. The fact that the colossal Buddhas were carved out of sandstone directly into the side of a mountain, was incredibly impressive. It will always be a shame that it was destroyed. We can universally be grateful that the cite is now under protection. 
 
 
-Notice how this pull quote appears alongside regular text, while the scrollybox took over the entire screen. Different tools for different purposes:
+The last chosen object of the representation of Buddha across four different regions comes from the ancient region of Gandhara and that is of the standing Buddha which now resided in the Metropolitan Museum in New York.
 
-- **Pull quotes** emphasize key text within ongoing paragraphs
-- **Scrollyboxes** create immersive moments that break away from normal flow
+This statue is made of a grey schist which greatly differs from the other chosen objects. However, it can be very reflective of the time that it was created, during the 3rd-4th century as this material was often used when making sculptures.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl. Praesent sed vehicula velit, vel hendrerit neque.
+The material of grey schist is particularly interesting as it can sometimes be seen as a green color, not only a grey color.
 
 
-## Image Carousels for Comparisons
-Below you'll see an **image carousel**—multiple images you can click through. This is perfect when you want readers to compare several images without cluttering the page.
+Another very interesting piece of this sculpture is that both of the hands no longer exist however they were very important pieces of the statue itself as the hand placement of Buddha imagery can hold different meaning depending on the placement.  
 
 {% assign images =
 "images/9.jpg,
@@ -80,17 +78,14 @@ id="first"
 images=images
 %}
 
-**Why use carousels?** When you have 3-5 related images (historical documents, different views of a building, a sequence of photos), a carousel lets readers compare them side-by-side without scrolling past each one. Click the arrows or dots to move between images.
-
-**Accessibility note:** Always include captions and source links so screen readers and citations work properly.
-
+ The opportunity of getting to research four different and unique representations of Buddha across different regions along the Silk Road offers the chance to see the deeply rooted connections specially within religion along the Silk Road.
 
 ## Larger Images
 {% include images/figure.html class="right" width="60%" caption="This image is 60% width instead of 48%, giving it more visual weight. Adjust widths based on what the image needs. [Source](https://commons.wikimedia.org/wiki/File:Khiva_town_of_The_Silk_Road_(%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%BD,_%D0%98%D1%87%D0%B0%D0%BD_%D0%9A%D0%B0%D0%BB%D0%B0,_%D0%A5%D0%B8%D0%B2%D0%B0).jpg)" image-path="images/ota-gate-khiva2.jpg" %}
 
-Just like in Seedling, you control image sizes with the `width` parameter. A floorplan or map might need 60-70% width to be legible, while a portrait might look better at 40%.
+Buddhism as a religious belief system is a very interesting topic in and of itself, the impact it had not only along the Silk Road but globally is very fascinating.
 
-Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc.
+Each of the chosen objects have their own story tell along with connecting their artistic styles to a much larger picture of Buddhism which connects with different regions. It’s very interesting getting the opportunity to research Buddhism and the impact it holds.  
 
 
 ## Block Quotes for Primary Sources
