@@ -35,11 +35,11 @@ http://www.jstor.org/stable/4412978.
 https://doi.org/10.22679/avs.2019.4.2.001.
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
+All of the chosen objects in regard to representation of Buddha across four different regions each hold their own cultural significance.
 
 
-## Your First Scrollybox
-Here's what makes Sapling different: keep scrolling and watch what happens next. You're about to see text appear **over** a background image, creating an immersive reading experience.
+## Different Scupltures of Buddha
+However, the gilded bronze statue that is dated to the sixth century found in Northern China is particularly interesting as it is a very unique depiction of not only one figure of Buddha, but two symmetrical figures that are meant to represent the historical and the future Buddha.
 
 {% include scrollybox/bg.html
   image-path="images/buddha-from-india-2.jpg"
@@ -49,7 +49,7 @@ Here's what makes Sapling different: keep scrolling and watch what happens next.
 %}
 
 
-## What Just Happened?
+
 That was a **scrollybox**—text that appears in a box over a full-screen background image. As you scrolled, the background image stayed fixed while the text box scrolled into view, stayed visible, then scrolled away.
 
 **Why use scrollyboxes?** They create moments of focus and drama. The full-screen image immerses readers in a visual context, while the overlay text provides commentary, quotations, or key points. It's like a visual pause in your narrative.
