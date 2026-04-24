@@ -68,6 +68,4 @@ his art styles and statue is a very interesting find from Northern China.
 
 ---
 
-## Bibliography
 
-- Lastname, Firstname. “Title of the Article.” *Title of the Journal* 9, no. 9 (1999): 999–999.
