@@ -50,11 +50,11 @@ However, the gilded bronze statue that is dated to the sixth century found in No
 
 
 
-That was a **scrollybox**—text that appears in a box over a full-screen background image. As you scrolled, the background image stayed fixed while the text box scrolled into view, stayed visible, then scrolled away.
+The most interesting part of this statue is the way that the Buddhas are depicted, they are emaciated, which could be correlated to the end of life stage whereas most notable depictions of Buddha from the Silk Road tend to have a more lively-look to them, they are healthier-looking.  
 
-**Why use scrollyboxes?** They create moments of focus and drama. The full-screen image immerses readers in a visual context, while the overlay text provides commentary, quotations, or key points. It's like a visual pause in your narrative.
+The chosen object from the ancient region of Bakhtria, the colossal Buddhas are not only outstanding in their size but also in their impact that they once held. It’s incredibly unfortunate that the colossal Buddha was a target by the Taliban in 2001 and we are not left with the remanent.
 
-**Technical note:** The `above-box-space` and `below-box-space` parameters control how much blank scroll space appears before and after the text box. Adjust these to control pacing—more space = slower, more contemplative; less space = faster pacing.
+ The importance that the colossal Buddha held will forever remain in not only the community of present-day Afghanistan but the rest of the world. The amazing construction of the masterpiece that once was, will continue to leave the world in awe. The fact that the colossal Buddhas were carved out of sandstone directly into the side of a mountain, was incredibly impressive. It will always be a shame that it was destroyed. We can universally be grateful that the cite is now under protection. 
 
 
 ## Pull Quotes Still Work
