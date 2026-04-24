@@ -16,7 +16,7 @@ An important message in accordance with Buddhism is the idea of the circle of li
 While discussing the importance of Buddhism along the Silk Road, there has been a distinct connection between Śākyamuni, the historical representation of Buddha as well as the Maitreya, the future representation of Buddha.
 
 
-## Building on Seedling Basics
+## The Influences of Buddha
 {% include images/figure.html
 class="right"
 width="48%"
@@ -26,11 +26,14 @@ image-path="images/ota-gate-khiva2.jpg"
 
 Both of these figures have come up within the four different objects chosen from four different regions across the Silk Road and that is significant in regard to the spread of Buddhism across different regions. 
 
-[^note1]:Footnotes continue to work exactly as before. All your Seedling skills carry forward.
+When discussing Buddhism specifically in India, it’s important to discuss the fact that India is considered the birthplace of Buddhism. 
 
-This layered approach is intentional. Master the basics, then add complexity incrementally. You're not learning a whole new system; you're expanding your toolkit with a few powerful new components.[^randomthing]
+Within the chosen object of the limestone dome-slab from the Amaravati, this object is said to be dated from around 50-100 AD, meaning that Buddhism within the region of India has been around for a very long time. 
 
-[^randomthing]:Put your source information here.
+[^randomthing]: https://www.britishmuseum.org/blog/introduction-ancient-india-living-traditions.
+http://www.jstor.org/stable/4412978.
+https://doi.org/10.22679/avs.2019.4.2.001.
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
 
