@@ -57,10 +57,6 @@ The chosen object from the ancient region of Bakhtria, the colossal Buddhas are 
  The importance that the colossal Buddha held will forever remain in not only the community of present-day Afghanistan but the rest of the world. The amazing construction of the masterpiece that once was, will continue to leave the world in awe. The fact that the colossal Buddhas were carved out of sandstone directly into the side of a mountain, was incredibly impressive. It will always be a shame that it was destroyed. We can universally be grateful that the cite is now under protection. 
 
 
-## Pull Quotes Still Work
-{% include typography/aside.html class="left" text="
-This left-aligned pull quote is the same component you learned in Seedling. Sapling essays can mix scrollyboxes with traditional pull quotes depending on what fits your narrative." %}
-
 Notice how this pull quote appears alongside regular text, while the scrollybox took over the entire screen. Different tools for different purposes:
 
 - **Pull quotes** emphasize key text within ongoing paragraphs
