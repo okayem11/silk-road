@@ -45,7 +45,7 @@ However, the gilded bronze statue that is dated to the sixth century found in No
   image-path="images/buddha-from-india-2.jpg"
   above-box-space = "100vh"
   below-box-space = "80vh"
-  box-content=' A sculpture in Khiva offers a romaticized view of the Silk Road trade network.'
+  box-content=' The few scupltures of Buddha represent the influence of Buddhism across different regions'
 %}
 
 
