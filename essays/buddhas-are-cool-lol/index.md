@@ -88,4 +88,8 @@ Buddhism as a religious belief system is a very interesting topic in and of itse
 Each of the chosen objects have their own story tell along with connecting their artistic styles to a much larger picture of Buddhism which connects with different regions. It’s very interesting getting the opportunity to research Buddhism and the impact it holds.  
 
 
-
+Bibliography: 
+ttps://www.britishmuseum.org/blog/introduction-ancient-india-living-traditions.
+(https://www.metmuseum.org/art/collection/search/38820)
+https://whoseculture.hsites.harvard.edu/bamiyan-buddhas.
+https://amis-musee-cernuschi.org/en/la-sculpture-chinoise-du-2eme-au-6eme-siecle/.
