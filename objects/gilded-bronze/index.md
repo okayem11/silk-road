@@ -25,7 +25,7 @@ tags:
 class="right"
 width="48%"
 caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)"
-image-path="images/buddha-from-gandhara.jpg"
+image-path="images/9.jpg"
 %}
 
 These two figures depicted in the statue are seated on the Lotus Sutra, which is also an important factor of this statue. The Lotus Sutra, in accordance with Chinese Buddhism proclaims, “universal Buddhahood,” indicating that all individuals, regardless of capacity, can attain enlightenment.
@@ -60,7 +60,7 @@ The drapes are angular and stiff, the sillhouetts very slender and faces emaciat
 This object from Northern China which depicts Śākyamuni and Prabhutāratna, is a very interesting style from the material used, the placement of the figures right hand which seems to represent “abhayu murda” which would gesture approachability, the emaciated depiction of Śākyamuni and Prabhutāratna,  as well as the muted images on the bottom of the seated statue.
 
 ## Images Can Be Different Widths
-{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)" image-path="images/han-coin-two-sides-blushwood.png" %}
+{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)" image-path="images/9.jpg" %}
 
 It’s unclear what exactly the muted images are on the bottom of the bench that the two figures are seated on, it appears to be a mirrored image of a certain animal and possibly a seated figure of Maitreya, which tends to be prominent within Buddhist imagery.
 
