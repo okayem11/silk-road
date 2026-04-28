@@ -25,7 +25,7 @@ Unfortunately, in 2001 these colossal statues were attacked by the Taliban and l
 class="right"
 width="48%"
 caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)"
-image-path="images/buddha-from-gandhara.jpg"
+image-path="images/image-2.png"
 %}
 
 These massive monuments are originally dated back to the 6th century and were carved directly into sandstone cliffs.
