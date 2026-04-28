@@ -25,7 +25,7 @@ This limestone slab can be dated back to AD 50-100, many of the object throughou
 class="right"
 width="48%"
 caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)"
-image-path="images/buddha-from-gandhara.jpg"
+image-path="images/buddha-india.jpg"
 %}
 
 This limestone slab originally stood over three meters or nine feet tall, which was a massive feat for its time. 
