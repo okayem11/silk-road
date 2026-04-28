@@ -87,6 +87,8 @@ Buddhism as a religious belief system is a very interesting topic in and of itse
 
 Each of the chosen objects have their own story tell along with connecting their artistic styles to a much larger picture of Buddhism which connects with different regions. It’s very interesting getting the opportunity to research Buddhism and the impact it holds.  
 
+Connection of Buddha: 
+In the Song Dynasty there was a representation of Buddha-Jesus which stood as a representation of the Manichaean Faith. This representation of a Buddha-Jesus shows the different interpretations ofBuddhism across many different regions even within different areas of China as we discussed one representation of symmetrical Buddhas in Northern China. 
 
 Bibliography: 
 ttps://www.britishmuseum.org/blog/introduction-ancient-india-living-traditions.
