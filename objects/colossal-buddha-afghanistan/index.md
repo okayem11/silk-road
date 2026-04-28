@@ -60,7 +60,7 @@ The Colossal Buddhas of Bakhtria were such an important part of the history rega
 When discussing these monuments, it is extremely important to discuss the fact that they were destroyed and how that heavily impacted not only the Afghanistan communities but the rest of the world.
 
 ## Images Can Be Different Widths
-{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)" image-path="images/han-coin-two-sides-blushwood.png" %}
+{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)" image-path="images/image-1.png" %}
 
 The attack on the monuments was a message from a terrorist group and it was an abuse of their power, a disgrace to the religion of Buddhism and an extremely unfortunate event that took place.
 
