@@ -18,7 +18,7 @@ tags:
 This limestone slab can be dated back to AD 50-100, many of the object throughout this discussion of representations of Buddhism along the Silk Road have not dated that far back.
 
 
-## This Dome SLab can be dated to 50-100 AD
+## This Dome Slab can be dated to 50-100 AD
 
 
 {% include images/figure.html
@@ -60,7 +60,7 @@ A magnificent Buddhist monument in southeast India that originally measured almo
 The limestone dome-slab from Amaravati in India that is a depiction of Buddha is a unique style of artwork that has Buddha in a standing position along with what appears to be three women and one man standing next to the Buddha. 
 
 ## Images Can Be Different Widths
-{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)" image-path="images/han-coin-two-sides-blushwood.png" %}
+{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)" image-path="images/buddha-from-india-2.jpg" %}
 
 What is also very interesting about this limestone slab is that the Buddha is in relatively minimal clothing which may be a representation of the time that it was created.
 
